@@ -5,7 +5,7 @@ I build production-minded full-stack, backend, distributed-data, and applied-AI 
 
 **Current focus:** backend/platform engineering, full-stack systems, AI tooling, and security-conscious software.
 
-## Selected work
+## Featured Projects
 
 - [CanICarryIt.com](https://canicarryit.com/) - live aviation-compliance platform with Cloudflare, Astro, TypeScript, D1, Playwright, multilingual static generation, and serverless ingestion.
 - [ShopCore](https://github.com/shivanshjain456/shopcore) - transaction-safe commerce engine with integer-money accounting, JWT/session rotation, UPI/UTR payment verification, and concurrency tests.
